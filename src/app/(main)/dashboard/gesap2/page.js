@@ -19,17 +19,7 @@ export default function Home() {
 
         <div className="grid">
        <VideoPlayer src="https://tomaslonnblad.github.io/1x/index.m3u8" />
-          <VideoPlayer src="https://tomaslonnblad.github.io/A/index.m3u8" />
-     <VideoPlayer src="https://tomaslonnblad.github.io/F/index.m3u8" />
-    <VideoPlayer src="https://tomaslonnblad.github.io/C/index.m3u8" />
-    <VideoPlayer src="https://tomaslonnblad.github.io/D/index.m3u8" />
-      <VideoPlayer src="https://tomaslonnblad.github.io/G/index.m3u8" />
-     <VideoPlayer src="https://tomaslonnblad.github.io/H/index.m3u8" />
-    // <VideoPlayer src="https://tomaslonnblad.github.io/I/index.m3u8" />
-        <VideoPlayer src="https://tomaslonnblad.github.io/J/index.m3u8" />
-            <VideoPlayer src="https://tomaslonnblad.github.io/K/index.m3u8" />
-     <VideoPlayer src="https://tomaslonnblad.github.io/L/index.m3u8" />
-      <VideoPlayer src="https://tomaslonnblad.github.io/M/index.m3u8" />
+
           <VideoPlayer src="https://tomaslonnblad.github.io/N/index.m3u8" />
         </div>
       </main>
