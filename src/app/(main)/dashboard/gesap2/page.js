@@ -20,7 +20,7 @@ export default function Home() {
         <div className="grid">
        <VideoPlayer src="https://tomaslonnblad.github.io/1x/index.m3u8" />
 
-          <VideoPlayer src="https://tomaslonnblad.github.io/N/index.m3u8" />
+        
         </div>
       </main>
 
